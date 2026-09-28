@@ -47,3 +47,5 @@ if st.button("COCINAAAAAR"):
                 
     else:
         st.error("Por favor escriba que falta.")
+
+print("streamlit_app.py created.")
